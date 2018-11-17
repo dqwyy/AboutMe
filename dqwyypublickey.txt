@@ -1,7 +1,6 @@
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-Comment: UID: dqwyy (http://a.dqwyy.moe) <dqwyy1997#gmail.com>
+Comment: dqwyy (http://a.dqwyy.moe)
 Comment: Fingerprint: 9B4A84E97C569B05A84BB92AE38ED5395030274D
-Comment: Type: rsa3072, generated on November 13th, 2018
 
 mQGNBFvqykEBDAC/SDQvGsPMtRvks2QY6ke4teyGH2GU3plkckaJwfY0i+Tytd1i
 wSLZrtzdJWc2lUtZ9andeMseLvBhRcI6s+ud0OTzuhpVrvjkOal5DEfDLtfFxmZ2
